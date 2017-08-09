@@ -6,7 +6,7 @@ Ganz generell ist der Preis von Nutzungsrechten Verhandlungssache. Für einige S
 
 Je exklusiver und weitreichender die Rechte abgetreten werden, desto höher sollte der Preis sein. Auch kann man den Preis danach bemessen, wie hoch der künstlerische Eigenwert ist, also wie präzise oder einschränkend die Vorgaben des Auftrags sind.
 
-Einige Beispiele würden hier sicher weiterhelfen. Wir arbeiten daran, sie hier anzufügen. Du kennst dich in diesem Bereich aus oder hast eine ungeklärte Frage? Verfolge das Thema auf [GitHub](https://github.com/vitopepito/moneynotlove-pages/issues/8) oder stelle eine Frage an die Community auf Slack. 
+Einige Beispiele würden hier sicher weiterhelfen. Wir arbeiten daran, sie hier anzufügen. Du kennst dich in diesem Bereich aus oder hast eine ungeklärte Frage? Verfolge das Thema auf [GitHub](https://github.com/vitopepito/moneynotlove-webcontent) oder stelle eine Frage an die Community auf Slack.
 
 ---
 
