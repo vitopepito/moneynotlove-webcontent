@@ -8,7 +8,7 @@ title: Documentation
 
 moneynotlove is open-source. This means that both the source code and the site content are available for __free for everyone__. But it also means that __you can contribute__:
 
-- If you found a typo or have a suggestion for a new page, visit our [moneynotlove-pages repository on Github](https://github.com/vitopepito/moneynotlove-webcontent)
+- If you found a typo or have a suggestion for a new page, visit our [moneynotlove-webcontent repository on Github](https://github.com/vitopepito/moneynotlove-webcontent)
 - If you want the edit the website theme (how it looks), visit our [money-grav-theme repository on Github](https://github.com/vitopepito/money-grav-theme)
 - If you need more info, read the documentation below
 
