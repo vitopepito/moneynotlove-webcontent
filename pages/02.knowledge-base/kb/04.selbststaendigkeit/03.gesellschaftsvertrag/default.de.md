@@ -1,5 +1,5 @@
 ---
-title: Wie kann man Zusammenarbeit regeln? In einem Gesellschaftsvertrag!
+title: 'Wie kann man Zusammenarbeit regeln? In einem Gesellschaftsvertrag!'
 ---
 
 Sobald zwei oder mehr Personen zusammenarbeiten, entsteht rechtlich gesehen automatisch eine Einfache Gesellschaft. Daher ist es wichtig, einige Fragen in einem kurzen Vertrag zu klären. So seid ihr bei Streitigkeiten abgesichert.
@@ -11,4 +11,4 @@ Sobald zwei oder mehr Personen zusammenarbeiten, entsteht rechtlich gesehen auto
 - Was geschieht mit dem Restvermögen im Falle einer Trennung?
 - Was mit den Rechten an den gemeinsamen Arbeiten?
 
-PDF Vorlage Gesellschaftsvertrag
+[PDF Vorlage Gesellschaftsvertrag](Vorlage_Gesellschaftsvertrag.pdf)
