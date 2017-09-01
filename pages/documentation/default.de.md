@@ -2,7 +2,7 @@
 title: Documentation
 ---
 
-# Start to contribute - now {.banner .text-hard}
+# Start to mess up stuff - now {.banner .text-hard}
 
 ### open source
 
