@@ -15,3 +15,5 @@ Auf eine Rechnung gehört:
 - Wichtig hierbei: Die Adresse des Kontos sollte mit der Adresse des Rechnungsstellers übereinstimmen, um Unklarheiten zu vermeiden.
 
 [PDF Rechnungsvorlage](Rechnungsvorlage.pdf)
+
+Der ganze Ablauf einer Offerte ist etwas komplizierter und muss auch Fall pro Fall angeschaut werden. Eine Gelegenheit, sich mit andern Kreativen diesbezüglich auszutauschen, sind unsere [Round Tables](/round-table). Ein Anfang findet sich aber auch bei [Designerdock](https://www.designerdock.com/extras/arbeitsrecht/beispiel-kostenangebot/)
