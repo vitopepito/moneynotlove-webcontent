@@ -1,7 +1,7 @@
 ---
-title: Wie schreibe ich eine Rechnung?
-
+title: 'Wie schreibe ich eine Rechnung?'
 ---
+
 Auf eine Rechnung gehört:
 
 - eure Adresse
@@ -14,4 +14,4 @@ Auf eine Rechnung gehört:
 - alle erforderlichen Angaben zum Bankkonto, auf welches der ersuchte Betrag überwiesen werden soll
 - Wichtig hierbei: Die Adresse des Kontos sollte mit der Adresse des Rechnungsstellers übereinstimmen, um Unklarheiten zu vermeiden.
 
-PDF Vorlage Rechnung
+[PDF Rechnungsvorlage](Rechnungsvorlage.pdf)
