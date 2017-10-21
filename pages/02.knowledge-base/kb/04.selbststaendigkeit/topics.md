@@ -11,8 +11,8 @@ content:
     pagination: true
 ---
 
-# Selbstständigkeit
+# Selbstständigkeit, Gesetze und Verträge
 
-##### Selbstständig zu arbeiten ist erst einmal unkompliziert. Doch bald sollte man sich als selbstständig Erwerbender anmelden und seine Tätigkeit auf eine solide rechtliche Basis stellen. Hier wird erklärt, wie sich Designer und Künstler als Selbstständige anmelden.
+##### Selbstständig zu arbeiten ist erst einmal unkompliziert. Doch bald sollte man sich als selbstständig Erwerbende anmelden und seine Tätigkeit auf eine solide rechtliche Basis stellen. Hier wird erklärt, wie sich Designer und Künstler als Selbstständige anmelden und rechtliche Fragen ausräumen können - um hoffentlich niemals in einen Gerichtsprozess involviert zu sein!
 
 <br />
