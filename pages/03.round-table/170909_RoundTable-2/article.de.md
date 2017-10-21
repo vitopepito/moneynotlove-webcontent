@@ -1,7 +1,7 @@
 ---
-title: 'Round Table: Design for Government (feat. Design Biennale) 2'
+title: 'Round Table: November'
 published: true
-date: '09-09-2017 15:00'
+date: '10-11-2017 17:30'
 event:
     start: '01-06-2017 18:00'
     end: '01-06-2017 22:00'
