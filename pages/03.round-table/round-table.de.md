@@ -8,7 +8,7 @@ content:
         dir: desc
     dateRange:
         end: today
-        field: header.date
+#        field: header.date
 upcoming:
     items: '@self.children'
     order:
