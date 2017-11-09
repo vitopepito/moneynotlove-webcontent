@@ -14,6 +14,7 @@ Du kannst Teil von moneynotlove werden!
 - Die Mitglieder informieren dich über relevante Events und Jobangebote
 - Du teilst interessante Inhalte mit andern
 
+
 <div class="button block--color-hard">
   <h4><a class="button--link" href="signup">Ich will Slack!</a></h4>
 </div>
