@@ -1,5 +1,5 @@
 ---
-title: 'Round Table: Exkursion nach Glarus 2'
+title: 'Exkursion nach Glarus'
 published: true
 date: '29-11-2017 18:30'
 event:
