@@ -1,7 +1,7 @@
 ---
 title: 'Coffee Table'
 published: true
-date: '09-09-2017 15:00'
+date: '22-11-2017 08:00'
 event:
     start: '01-06-2017 18:00'
     end: '01-06-2017 22:00'
