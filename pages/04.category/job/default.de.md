@@ -16,5 +16,5 @@ Du kannst Teil von moneynotlove werden!
 
 <br>
 <div class="button block--color-hard">
-  <h4><a class="button--link" href="/about-us">Mehr Infos zu moneynotlove!</a></h4>
+  <h4><a class="button--link" href="/">Mehr Infos zu moneynotlove!</a></h4>
 </div>
