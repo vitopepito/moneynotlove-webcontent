@@ -1,5 +1,5 @@
 ---
-title: 'Exkursion nach Glarus'
+title: 'Exkursion nach Bern'
 published: true
 date: '29-11-2017 18:30'
 event:
@@ -7,7 +7,7 @@ event:
     end: '01-06-2017 22:00'
 ---
 
-# Exkursion nach Glarus
+# Exkursion nach Bern
 
 ###### 29. November 18.30 - 21.00, Raiffeisen Forum, Schauplatzgasse 11, 3011 Bern {.text-hard}
 
