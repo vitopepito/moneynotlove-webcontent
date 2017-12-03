@@ -1,5 +1,5 @@
 ---
-title: 'Ask a question - get a coffee'
+title: 'Coffee Table: Ask a question – get a coffee'
 published: true
 date: '06-12-2017 08:00'
 event:
