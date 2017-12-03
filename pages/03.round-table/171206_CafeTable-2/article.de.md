@@ -1,7 +1,7 @@
 ---
-title: 'Coffee Table 2'
+title: 'Ask a question - get a coffee'
 published: true
-date: '22-11-2017 08:00'
+date: '06-12-2017 08:00'
 event:
     start: '01-06-2017 18:00'
     end: '01-06-2017 22:00'
@@ -9,7 +9,7 @@ event:
 
 # Coffee Table
 
-###### 22. November um 08.00, Café Noir, Neugasse 33, 8005 Zürich {.text-hard}
+###### 6. Dezember um 08.00, Café Noir, Neugasse 33, 8005 Zürich {.text-hard}
 
 ---
 
