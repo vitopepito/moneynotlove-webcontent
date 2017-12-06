@@ -38,7 +38,7 @@ form:
 
     process:
         - email:
-            from: {{ form.value.email }}
+            from: "{{ form.value.email }}"
             subject: "[moneynotlove signup] {{ form.value.vorname|e }} {{ form.value.name|e }}"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
@@ -52,4 +52,4 @@ form:
 
 # Sign up
 
-Wir nutzen Slack für die interne Kommunikation. Es ist ein einfacher Weg, mit allen im Kontakt zu bleiben und gibt die Möglichkeit, die ganze Gruppe über etwas zu informieren. Wir freuen uns, falls du daran teilhaben möchtest. Jede Anmeldung wird von uns geprüft – am Liebsten wäre uns sogar, dich einmal persönlich kennenzulernen. 
+Wir nutzen Slack für die interne Kommunikation. Es ist ein einfacher Weg, mit allen im Kontakt zu bleiben und gibt die Möglichkeit, die ganze Gruppe über etwas zu informieren. Wir freuen uns, falls du daran teilhaben möchtest. Jede Anmeldung wird von uns geprüft – am Liebsten wäre uns sogar, dich einmal persönlich kennenzulernen.
