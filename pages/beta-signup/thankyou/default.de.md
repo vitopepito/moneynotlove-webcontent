@@ -1,5 +1,8 @@
 ---
 title: Thank you for signing up
+process:
+    twig: true
+never_cache_twig: true
 ---
 
 # Vielen Dank für die Anmeldung!
