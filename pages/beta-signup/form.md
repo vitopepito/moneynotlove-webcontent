@@ -35,7 +35,7 @@ form:
 
         -
           name: g-recaptcha-response
-          label: Captcha
+          label: Zur Sicherheit
           type: captcha
           recaptcha_site_key: 6Le8HDwUAAAAAPbOaxTsRQe3GunNnTWQLu4veXTs
           recaptcha_not_validated: 'Captcha not valid!'
