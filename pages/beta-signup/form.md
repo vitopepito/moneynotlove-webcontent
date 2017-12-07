@@ -8,6 +8,7 @@ form:
         - name: vorname
           label: Vorname
           type: text
+          autofocus: true
           validate:
             required: true
 
@@ -29,6 +30,18 @@ form:
           validate:
             required: true
 
+        - name: honeypot
+          type: honeypot
+
+        -
+          name: g-recaptcha-response
+          label: Captcha
+          type: captcha
+          recaptcha_site_key: 6Le8HDwUAAAAAPbOaxTsRQe3GunNnTWQLu4veXTs
+          recaptcha_not_validated: 'Captcha not valid!'
+          validate:
+            required: true
+
 
     buttons:
         - type: submit
@@ -36,6 +49,8 @@ form:
           classes: button block--color-hard
 
     process:
+        - captcha:
+            recatpcha_secret: 6Le8HDwUAAAAAHdDz0qYMTslDcU3XBnzxBybvmBQ
         - email:
             from: "{{ form.value.email }}"
             subject: "[moneynotlove signup] {{ form.value.vorname|e }} {{ form.value.name|e }}"
