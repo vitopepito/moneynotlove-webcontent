@@ -30,7 +30,7 @@ menu: 'About Us'
       <a class="link-box" href="round-table"><span></span></a>
       <h3>The Creative’s <br />Round Table</h3>
       <p>
-        Orte und Zeiten für einen freien Austausch unter den Kreativen.
+        Ort und Zeit für einen freien und persönlichen Austausch der Erfahrungen unter Kreativen.
       </p>
       <p class="flex-bottom">
         <span style="text-decoration:underline;">
@@ -62,7 +62,7 @@ menu: 'About Us'
 
 <section class="row align-center">
   <div class="col-xs-12 col-md-8">
-    <p><strong>Seit 2013 </strong>thematisiert moneynotlove die Arbeit junger Kreativer und Selbstständiger. moneynotlove hat an Ausstellungen im Vitra Design Museum, dem Depot Basel und der Dezajin Gallery Wroclaw teilgenommen und wurde im Hochparterre und Tagesanzeiger erläutert. </p>
+    <p>Seit 2013 thematisiert moneynotlove die Arbeit junger Kreativer und Selbstständiger. moneynotlove hat an Ausstellungen im Vitra Design Museum, dem Depot Basel und der Dezajin Gallery Wroclaw teilgenommen und wurde im Hochparterre und Tagesanzeiger erläutert. </p>
     <p>Gegründet wurde moneynotlove von Myriam Marti und Nando Schmidlin. Seither haben wir ein offenes Netzwerk aufgebaut, bei dem alle der Chef sein können, wenn sie wollen. Folgenden Personen möchten wir speziell danken (in alphabetischer Reihenfolge): Anina Riniker, Andrea Salathe, Fabio Schmieder, Lorena Linke, Roger Zürcher, Salome Müller.</p>
     <p>Am besten erreichst du uns per email:</p>
     <div class="buttons">
