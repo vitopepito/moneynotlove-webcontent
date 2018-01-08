@@ -76,7 +76,7 @@ menu: 'About Us'
     <p>&nbsp;</p>
     <p>Alle informationen auf unserer Platform sind frei zugänglich. Wir haben sie selbst zusammengetragen und hoffen, damit einige häufige Fragen beantworten zu können. Perfekt ist es aber nicht. Noch nicht! Du hast bestimmt etwas gefunden, dass verbessert werden könnte oder gänzlich unklar ist. Über GitHub kannst ganz einfach eine Änderung vorschlagen. Wir haben eine einfache Anleitung geschrieben, wie das geht. </p>
     <div class="buttons">
-      <button class="button button-large block--color-hard"><a class="button--link" href="documentation">Zur Dokumentation</a></button>
+      <button class="button button-large block--color-hard"><a class="button--link" href="https://github.com/vitopepito/moneynotlove-webcontent">Zu GitHub</a></button>
     </div>
   </div>
 </section>
