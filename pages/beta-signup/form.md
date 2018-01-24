@@ -46,7 +46,7 @@ form:
     buttons:
         - type: submit
           value: Submit
-          classes: button block--color-hard
+          classes: button button-large block--color-hard
 
     process:
         - captcha:
