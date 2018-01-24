@@ -66,7 +66,7 @@ menu: 'About Us'
     <p>Gegründet wurde moneynotlove von Myriam Marti und Nando Schmidlin. Seither haben wir ein offenes Netzwerk aufgebaut, bei dem alle der Chef sein können, wenn sie wollen. Folgenden Personen möchten wir speziell danken (in alphabetischer Reihenfolge): Anina Riniker, Andrea Salathe, Fabio Schmieder, Lorena Linke, Roger Zürcher, Salome Müller.</p>
     <p>Am besten erreichst du uns per email:</p>
     <div class="buttons">
-      <button class="button button-large block--color-hard"><a class="button--link" href="mailto:chef@moneynotlove.ch">Email schreiben</a></button>
+      <button class="button button-large block--color-hard"><a class="button--link" href="mailto:generalsekretariat@moneynotlove.ch">Email schreiben</a></button>
     </div>
     <p>&nbsp;</p>
     <p>Innerhalb unseres Netzwerks treffen wir uns regelmässig und tauschen uns aus. Als pendent zum realen Leben haben wir eine Slack Group eröffnet, um Ankündigungen und spezifische Fragen zu teilen. Wir freuen uns, dich auf Slack zu begrüssen. Du kannst du über dieses Formular eine Einladung anfordern. </p>
