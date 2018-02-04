@@ -66,17 +66,17 @@ menu: 'About Us'
     <p>Gegründet wurde moneynotlove von Myriam Marti und Nando Schmidlin. Seither haben wir ein offenes Netzwerk aufgebaut, bei dem alle der Chef sein können, wenn sie wollen. Für alles Organisatorische ist das Generalsekretariat zuständig, das zurzeit aus folgenden Personen besteht: Andrea Salathe, Fabio Schmieder, Myriam Marti, Nando Schmidlin, Pia Valär.</p>
     <p>Am besten erreichst du das Generalsekretariat per email:</p>
     <div class="buttons">
-      <button class="button button-large block--color-hard"><a class="button--link" href="mailto:generalsekretariat@moneynotlove.ch">Email schreiben</a></button>
+      <button class="button button-large block--color-hard"><a class="button--link" href="mailto:generalsekretariat@moneynotlove.ch">generalsekretariat@moneynotlove.ch</a></button>
     </div>
     <p>&nbsp;</p>
     <p>Innerhalb unseres Netzwerks treffen wir uns regelmässig und tauschen uns aus. Als pendent zum realen Leben haben wir eine Slack Group eröffnet, um Ankündigungen und spezifische Fragen zu teilen. Wir freuen uns, dich auf Slack zu begrüssen. Du kannst du über dieses Formular eine Einladung anfordern. </p>
     <div class"buttons">
-      <button class="button button-large block--color-hard"><a class="button--link" href="signup">Zur Anmeldung</a></button>
+      <button class="button button-large block--color-hard"><a class="button--link" href="signup">Zur Anmeldung für Slack</a></button>
     </div>
     <p>&nbsp;</p>
     <p>Alle informationen auf unserer Platform sind frei zugänglich. Wir haben sie selbst zusammengetragen und hoffen, damit einige häufige Fragen beantworten zu können. Perfekt ist es aber nicht. Noch nicht! Du hast bestimmt etwas gefunden, dass verbessert werden könnte oder gänzlich unklar ist. Über GitHub kannst ganz einfach eine Änderung vorschlagen. Wir haben eine einfache Anleitung geschrieben, wie das geht. </p>
     <div class="buttons">
-      <button class="button button-large block--color-hard"><a class="button--link" href="https://github.com/vitopepito/moneynotlove-webcontent">Zu GitHub</a></button>
+      <button class="button button-large block--color-hard"><a class="button--link" href="https://github.com/vitopepito/moneynotlove-webcontent">Zum Code auf GitHub</a></button>
     </div>
   </div>
 </section>
