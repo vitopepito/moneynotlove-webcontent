@@ -1,18 +1,16 @@
 ---
-title: 'Round Table 2'
+title: 'Round Table'
 published: true
 date: '27-03-2018 18:30'
 ---
 
 # Round Table
 
-###### 27. März um 18.30 {.text-hard}
+###### 05. Juni um 18.30 {.text-hard}
 
 ---
 
-Soll ich ein selbstständiges Studio gründen? Wie hoch soll der Stundenlohn sein? Wie macht man Buchhaltung? Welche Versicherungen braucht man? Wie sorgt man fürs Alter vor? Macht das alles überhaupt Sinn? Wir treffen uns, um Erfahrungen auszutauschen mit andern selbstständigen Designern und Kreativen.
-
-Bei diesem Treffen steht im Fokus, wie wir uns digital besser vernetzen können. Wir definieren relevante Inhalte und Abläufe für unsere Slack Group und setzen diese gleich in die Tat um. Beigleitet wie immer von einem Bier.
+Leben Kreative unter der Armutsgrenze? Soll ich ein selbstständiges Studio gründen? Wie hoch soll der Stundenlohn sein? Wie macht man Buchhaltung? Wie sorgt man fürs Alter vor? Macht das alles überhaupt Sinn? Wir treffen uns, um Erfahrungen auszutauschen mit andern selbstständigen Designern und Kreativen. Es geht ganz konkret um Alles oder Nichts. 
 
 ---
 
