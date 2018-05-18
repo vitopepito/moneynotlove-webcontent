@@ -10,7 +10,9 @@ date: '05-06-2018 18:30'
 
 ---
 
-Leben Kreative unter der Armutsgrenze? Soll ich ein selbstständiges Studio gründen? Wie hoch soll der Stundenlohn sein? Wie macht man Buchhaltung? Wie sorgt man fürs Alter vor? Macht das alles überhaupt Sinn? Wir treffen uns, um Erfahrungen auszutauschen mit andern selbstständigen Designern und Kreativen. Es geht ganz konkret um Alles oder Nichts. 
+Leben Kreative unter der Armutsgrenze? Wie hoch soll der Stundenlohn sein? Sollen wir die Welt verändern? Wie macht man Buchhaltung? Wie sorgt man fürs Alter vor? Macht das alles überhaupt Sinn?
+
+Wir treffen uns, um gemeinsam mit andern Designern und Kreativen Fragen zu erkunden, für die sonst wenig Platz ist. Es geht ganz konkret um Alles oder Nichts. 
 
 ---
 
