@@ -4,9 +4,7 @@ title: Privacy
 
 # What we do and don't with your data
 
-Yes, we collect data about you as a visitor on moneynotlove.ch. This page explains in detail what data we collect and what we use it for.
-
-There are two ways how we collect your data. Once through an analytics tool called Matomo, which logs all our website visitors. On the other hand if visitor actively enter data into contact forms, we obviously collect that as well.
+Yes, we collect data about you as a visitor on moneynotlove.ch. This page explains in detail what data we collect and what we use it for. There are two ways how we collect your data. Once through an analytics tool called Matomo, which logs all our website visitors. On the other hand if visitor actively enter data into contact forms, we obviously collect that as well.
 
 ### Matomo
 Matomo is an open source analytics platform that we host on our own servers, meaning that no third party is processing any of our data. We collect
@@ -25,4 +23,5 @@ In addition to email and Slack, we provide visitors with contact forms in order 
 Data privacy is a big concern, and rightly so. In this sense, we welcome the recent legislative initiative by the EU. Please keep in mind that we lack resources to employ lawyers, but we do our best to be open and transparent on what we do. If you have any further questions, feel free to send us an email or even a letter.
 
 moneynotlove Generalsekretariat
+
 25.05.2018
