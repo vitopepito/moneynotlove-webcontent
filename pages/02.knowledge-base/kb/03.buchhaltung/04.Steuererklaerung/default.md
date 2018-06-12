@@ -1,12 +1,23 @@
 ---
-title: Wie mache ich die Steuererklärung?
+title: Vorlage Buchhaltung in Excel/Numbers für selbstständige Kreative und Designer
 
 ---
-Als Einzelfirma oder einfache Gesellschaft seid ihr nicht zur doppelten Buchführung verpflichtet. Trotzdem müsst ihr alle Geschäftsgänge sorgfältig ablegen und 10 Jahre aufbewahren.
 
-Steuern zahlt ihr als Selbstständige nur auf den tatsächlichen Gewinn. Für die Steuererklärung müsst ihr von den Einnahmen also die Aufwände abziehen. Folgendes legt ihr bei:
+Wir haben nach besten Gewissen diese Buchhaltungsvorlage erstellt. Wir möchten aber gleich vorausstellen, dass wir die Tabellen als Hilfe anbieten und selbst keine Steuerprofis sind. Für die meisten Fälle solltet ihr mit diesem File gut eingedeckt sein.
 
-- Einnahmen: Auftragsrechnungen
-- Ausgaben: Verträge und Quittungen von Miete, Computer (Abschreibung), Material, Geschäftsessen etc.
-- Geschäftsvermögen: Kontoauszüge eures Geschäftskontos
-Quelle: pdf Kantonales Steueramt Zürich
+[Vorlage Buchhaltung in Excel/Numbers für selbstständige Kreative und Designer](https://www.icloud.com/numbers/0IdNwP7EZFxNrEJzeqQihUDwQ#Spreadsheet-Buchhaltung)
+
+Unter diesem Link findet ihr die Tabellen. Wenn ihr sie nutzen möchten, könnt ihr sie einfach herunterladen und in Numbers oder Excel öffnen. Dafür drückt ihr auf das Werkzeug oben rechts.
+
+##### Anleitung zur Vorlage
+
+Hoffentlich macht euch das File nur wenige Probleme. Zuerst einmal haben wir vier Tabs:
+
+- Buchhaltung: Alle Einnahmen und Ausgaben. Hier trägt ihr eure Daten ein!
+- Erfolgsrechnung: Automatisch erstellte Übersicht des Erfolgs
+- Steuererklärung: Zeigt am Beispiel der Zürcher Steuererklärung, wo welche Daten einzutragen sind.
+- Glossar: Falls ihr unsicher seid, wo was einzutragen ist, könnt ihr hier nachschauen.
+
+Das bedeutet also, dass ihr eure Daten nur im ersten Tab 'Buchhaltung' eintragen müsst. Der Rest erledigt sich automatisch! Für die Steuererklärung druckt ihr dann die Erfolgsrechnung aus und unterschreibt sie. Wenn ihr dann noch die entsprechenden Zahlen ins Steuerformular einträgt, kann eigentlich nichts mehr schiefgehen.
+
+Viel Spass!
