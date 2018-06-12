@@ -13,6 +13,8 @@ Es gibt zwei Möglichkeiten: Einerseits könnt ihr eine einfach Liste (Excel) ma
 - Führt Einnahmen und Ausgaben in getrennten Spalten auf und Ende Jahr rechnet ihr zusammen. Die dazugehörigen Belege könnt ihr nummerieren oder sonstwie geordnet aufbewahren.
 - Es gibt unzählige Anbieter von Buchhaltungssoftware. Oftmals ist sie nicht optimal auf Selbstständige zugeschnitten, zu teuer oder zu umständlich.
 
+
+ 
 ##### Steuererklärung für Kreative
 
 Steuern zahlt ihr als Selbstständige nur auf den tatsächlichen Gewinn. Für die Steuererklärung müsst ihr von den Einnahmen also die Aufwände abziehen. Folgendes legt ihr bei:
@@ -22,6 +24,6 @@ Steuern zahlt ihr als Selbstständige nur auf den tatsächlichen Gewinn. Für di
 - Geschäftsvermögen: Kontoauszüge eures Geschäftskontos
 Quelle: pdf Kantonales Steueramt Zürich
 
-Davon reicht ihr die Abrechnung - und nur die Abrechnung ohne alle Quittungen etc. - unterschrieben beim Steueramt ein. Auf dem Steuerformular müsst ihr zusätzlich einige Angaben machen, die ihr aber aus eurer Buchhaltung auslesen könnt. 
+Davon reicht ihr die Abrechnung - und nur die Abrechnung ohne alle Quittungen etc. - unterschrieben beim Steueramt ein. Auf dem Steuerformular müsst ihr zusätzlich einige Angaben machen, die ihr aber aus eurer Buchhaltung auslesen könnt.
 
 *Nun aber zum Excelfile, das wir extra für Designer und Kreative vorbereitet haben! Damit sollten sich alle offenen Fragen, die noch nicht beantwortet sind, klären.*
