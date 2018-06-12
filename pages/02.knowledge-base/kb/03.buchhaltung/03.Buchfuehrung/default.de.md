@@ -14,7 +14,7 @@ Es gibt zwei Möglichkeiten: Einerseits könnt ihr eine einfach Liste (Excel) ma
 - Es gibt unzählige Anbieter von Buchhaltungssoftware. Oftmals ist sie nicht optimal auf Selbstständige zugeschnitten, zu teuer oder zu umständlich.
 
 
- 
+##### 
 ##### Steuererklärung für Kreative
 
 Steuern zahlt ihr als Selbstständige nur auf den tatsächlichen Gewinn. Für die Steuererklärung müsst ihr von den Einnahmen also die Aufwände abziehen. Folgendes legt ihr bei:
