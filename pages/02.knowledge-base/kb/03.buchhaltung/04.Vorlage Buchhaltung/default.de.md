@@ -2,7 +2,7 @@
 title: 'Excel/Numbers Vorlage Buchhaltung zum selber machen'
 ---
 
-Selbstständige Designer und Kreative können die Buchhaltung durchaus selbst machen. Nur wenige waren davon wirklich begeistert, doch mit etwas Grundwissen ist es schnell erledigt. Dafür haben nach besten Gewissen diese Buchhaltungsvorlage erstellt. Wir möchten aber gleich vorausstellen, dass wir die Tabellen als Hilfe anbieten und selbst keine Steuerprofis sind. Für die meisten Fälle solltet ihr mit diesem File gut eingedeckt sein.
+Selbstständige Designer und Kreative können die Buchhaltung durchaus selbst machen. Nur wenige waren davon wirklich begeistert, doch mit etwas Grundwissen ist es schnell erledigt. Dafür haben wir nach bestem Gewissen diese Buchhaltungsvorlage erstellt. Wir möchten aber gleich vorausstellen, dass wir die Tabellen als Hilfe anbieten und selbst keine Steuerprofis sind. Für die meisten Fälle solltet ihr mit diesem File gut eingedeckt sein.
 
 [Vorlage Buchhaltung in Excel/Numbers für selbstständige Kreative und Designer](https://www.icloud.com/numbers/0IdNwP7EZFxNrEJzeqQihUDwQ#Spreadsheet-Buchhaltung)
 
