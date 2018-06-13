@@ -9,7 +9,7 @@ Selbstständige Designer und Kreative können die Buchhaltung durchaus selbst ma
 
 Unter diesem Link findet ihr die Tabellen. Wenn ihr sie nutzen möchten, könnt ihr sie einfach herunterladen und in Numbers oder Excel öffnen. Dafür drückt ihr auf das Werkzeug oben rechts.
 
-![Vorlage Buchhaltung in Excel/Numbers für selbstständige Kreative und Designer](Numbers-Vorlage-Buchhaltung-Selbststaendige.png)
+![Vorlage Buchhaltung in Excel/Numbers für selbstständige Kreative und Designer](Numbers-Vorlage-Buchhaltung-Selbststaendige.png?sizes=100%)
 
 ##### Anleitung zur Vorlage
 
