@@ -13,7 +13,7 @@ Ausgehend von einem Stundenlohn von 100 CHF fallen folgende Abzüge an:
 - 2.0% Büroausstattung (Computer, Programme, Magazine, Büromaterial)
 - 20% Administration und Akquise (1 Tag pro Woche)
 
-__Übrig bleiben euch also 45 CHF__
+__Bei einem Stundensatz von 100.- CHF bleiben euch als Selbstständige also 45 CHF übrig__
 
 Diesen Nettostundenlohn verdient ihr, bei vollständiger Beschäftigung, während ca. 139 Stunden im Monat (Auftragsarbeit). Dabei fallen jedoch auch 34.8 Stunden Akquise und Administration an, welche ihr dem Kunden bereits verrechnet habt. Gute Rechner kommen somit auf einen "theoretischen" Monatslohn von CHF 6255 CHF.
 
