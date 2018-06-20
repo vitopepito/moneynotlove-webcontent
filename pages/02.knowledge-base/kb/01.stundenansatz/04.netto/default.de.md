@@ -1,5 +1,5 @@
 ---
-title: Wieviel Geld habe ich am Schluss (netto)?
+title: 'Wieviel Geld bleibt am Schluss übrig (netto)?'
 ---
 
 Ausgehend von einem Stundenlohn von 100 CHF fallen folgende Abzüge an:
