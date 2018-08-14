@@ -1,5 +1,6 @@
 ---
 title: 'Exkursion nach Bern'
+media_order: IMG_9932.jpg
 published: true
 date: '29-11-2017 18:30'
 event:
