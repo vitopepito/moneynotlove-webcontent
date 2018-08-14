@@ -15,12 +15,12 @@ Töpfern soll ja sowas wie die Trendbeschäftigung 2017 gewesen sein. Aber ein L
 
 Der genaue Ablauf:
 
-12:00 Uhr ICE von Zürich HB
-13:20 Uhr Ankunft in Laufen 
-13:30 Uhr Start der Führung 
-14:50 Uhr Q&A mit unserem Design Manager 
-15:30 Uhr Besichtigung Laufen Forum 
-16:00 Uhr Verabschiedung 
+- 12:00 Uhr ICE von Zürich HB
+- 13:20 Uhr Ankunft in Laufen 
+- 13:30 Uhr Start der Führung 
+- 14:50 Uhr Q&A mit unserem Design Manager 
+- 15:30 Uhr Besichtigung Laufen Forum 
+- 16:00 Uhr Verabschiedung 
 
 ---
 
