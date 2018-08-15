@@ -11,7 +11,7 @@ date: '12-10-2018 13:20'
 
 ---
 
-Töpfern soll ja sowas wie die Trendbeschäftigung 2017 gewesen sein. Aber ein Lavabo töpfern? Das tönt ganz schön kompliziert, und wie macht man das ganze überhaupt doppelwandig? In einem kleinen Ecken der Schweiz namens Laufen werden nicht nur Ricola Bonbons hergestellt, nein, auch die **Keramik Laufen AG** hat da ihren Hauptsitz. moneynotlove hat für euch eine Exkursion organisiert, die eure Erfahrungen an der Töpferscheibe alt aussehen lässt. Doch nicht nur eine Besichtigung der Produktion liegt drin, sondern auch eine Fragerunde mit ihrem Design Manager. Wie wählen sie Designer aus? Kann man Lavabos reparieren? Wir freuen uns sehr, einen Nachmittag lang diesen Fragen auf den Grund zu gehen, am liebsten natürlich mit andern Kreativen!
+Töpfern soll ja sowas wie die Trendbeschäftigung 2017 gewesen sein. Aber ein Lavabo töpfern? Das tönt ganz schön kompliziert, und wie macht man das ganze überhaupt doppelwandig? In einem kleinen Ecken der Schweiz namens Laufen werden nicht nur Ricola Bonbons hergestellt, nein, auch die **Keramik Laufen AG** hat da ihren Hauptsitz. moneynotlove hat für euch eine Exkursion organisiert, die eure Erfahrungen an der Töpferscheibe alt aussehen lässt. Doch nicht nur eine Besichtigung der Produktion liegt drin, sondern auch eine Fragerunde mit ihrem Design Manager. Wie planen sie ihre Kollektion? Kann man Lavabos reparieren? Werde ich in Zukunft mit meinem WC sprechen? Wir freuen uns sehr, einen Nachmittag lang diesen Fragen auf den Grund zu gehen, am liebsten natürlich mit andern Kreativen!
 
 Der genaue Ablauf:
 
