@@ -22,6 +22,8 @@ Der genaue Ablauf:
 - 15:30 Uhr Besichtigung Laufen Forum 
 - 16:00 Uhr Verabschiedung 
 
+Die Führung ist kostenlos, ausser dem Zugbillet. 
+
 ---
 
 Interessiert? Melde dich hier an (mit Mailchimp):
