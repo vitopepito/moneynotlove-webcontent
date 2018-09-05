@@ -7,7 +7,7 @@ date: '12-10-2018 13:20'
 
 # Exkursion zu Laufen Sanitärkeramik
 
-###### 12. Oktober um 13:20, ab Zürich HB um 12:00 {.text-hard}
+###### 25. Oktober um 13:20, ab Zürich HB um 12:00 {.text-hard}
 
 ---
 
