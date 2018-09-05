@@ -18,7 +18,7 @@ Der genaue Ablauf:
 - 12:00 Uhr ICE von Zürich HB
 - 13:20 Uhr Ankunft in Laufen 
 - 13:30 Uhr Start der Führung 
-- 14:50 Uhr Q&A mit unserem Design Manager 
+- 14:50 Uhr Q&A mit dem Design Manager 
 - 15:30 Uhr Besichtigung Laufen Forum 
 - 16:00 Uhr Verabschiedung 
 
