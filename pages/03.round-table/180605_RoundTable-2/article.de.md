@@ -2,7 +2,7 @@
 title: 'Exkursion zu Laufen Sanitärkeramik'
 media_order: SaphirKeramik_06_big.jpg
 published: true
-date: '12-10-2018 13:20'
+date: '25-10-2018 13:20'
 ---
 
 # Exkursion zu Laufen Sanitärkeramik
