@@ -1,5 +1,5 @@
 ---
-title: 'Visit to CERN'
+title: 'Excursion to CERN'
 published: true
 date: '08-02-2016 14:00'
 event:
