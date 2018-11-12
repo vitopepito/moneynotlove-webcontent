@@ -12,7 +12,7 @@ date: '12-12-2018 18:30'
 
 Der letzte Round Table dieses Jahres findet bei unseren Freunden vom Würfel statt. Der Würfel ist ein Ort mit einem runden Tisch auf dem Parkplatz. Nicht ganz klar? Schau dir doch ihre Website an: [https://www.park-platz.org](https://www.park-platz.org). Dann melde dich mit dem Formular unten an!
 
-This year's last round table is hosted by our friends at Würfel. The Würfel ist a room with a round table on the Parkplatz. Still confused? Check out their website: [https://www.park-platz.org](https://www.park-platz.org). Then sign up below!
+_This year's last round table is hosted by our friends at Würfel. The Würfel ist a room with a round table on the Parkplatz. Still confused? Check out their website: [https://www.park-platz.org](https://www.park-platz.org). Then sign up below!_
 
 ---
 
