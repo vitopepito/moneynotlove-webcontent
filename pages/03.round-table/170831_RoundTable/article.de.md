@@ -1,5 +1,5 @@
 ---
-title: 'Round Table: Exkursion nach Glarus'
+title: 'Exkursion nach Glarus zu Schätti und Olympia'
 published: true
 date: '31-08-2017 14:00'
 event:
