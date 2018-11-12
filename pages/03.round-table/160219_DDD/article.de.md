@@ -1,5 +1,5 @@
 ---
-title: 'Democratic Design Days'
+title: 'Exkursion zu Democratic Design Days'
 published: true
 date: '19-02-2016 20:00'
 event:
