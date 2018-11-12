@@ -1,12 +1,12 @@
 ---
-title: 'Round Table 2'
+title: 'Round Table'
 published: true
-date: '05-06-2018 18:30'
+date: '12-12-2018 18:30'
 ---
 
 # Round Table
 
-###### 05. Juni um 18.30 {.text-hard}
+###### 12. Dezember um 18.30 im Würfel {.text-hard}
 
 ---
 
