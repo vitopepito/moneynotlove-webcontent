@@ -10,13 +10,19 @@ date: '12-12-2018 18:30'
 
 ---
 
-Leben Kreative unter der Armutsgrenze? Wie hoch soll der Stundenlohn sein? Sollen wir die Welt verändern? Wie macht man Buchhaltung? Wie sorgt man fürs Alter vor? Macht das alles überhaupt Sinn?
+moneynotlove ist eine Informationsplattform für selbstständige Kreative und Designer. Sie beantwortet alltägliche unternehmerische Fragen, wie Stundenlohn, Altersvorsorge, Offerten schreiben, Buchhaltung, und viele andere. Die Platform basiert auf dem Prinzip einer opensource community, die Alle nutzen, teilen und weiterentwickeln können. 
 
-Wir treffen uns, um gemeinsam mit andern Designern und Kreativen Fragen zu erkunden, für die sonst wenig Platz ist. Es geht ganz konkret um Alles oder Nichts. 
+Zusätzlich organisiert moneynotlove sogenannte Round Tables als Format für einen persönlichen Austausch mit Gleichgesinnten. Alle sind dazu eingeladen, an den Round Tables fragen zu stellen und Themen zu diskutieren, für die im Alltag kein Platz ist. Es geht ganz konkret um Alles oder Nichts.
 
 ---
 
-Interessiert? Melde dich hier an (mit Mailchimp):
+moneynotlove is an information platform for independent creatives and designers. It answers everyday work related questions, like calculating and hourly rate, saving for retirement, writing pitches, doing bookkeeping, and many more. The platform is run as an opensource community, which everyone can freely use, share and develop. 
+
+In addition, moneynotlove organises so called round tables as a format for personal exchange with similar minded people. At the round tables, everyone is invited to ask questions and explore issues which otherwise would be lost in daily routine. In detail, it is about all or nothing. 
+
+---
+
+Interessiert? Melde dich hier an! Sign up here! (Mailchimp)
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
