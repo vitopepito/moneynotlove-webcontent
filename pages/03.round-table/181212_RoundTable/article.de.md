@@ -6,7 +6,11 @@ date: '12-12-2018 18:30'
 
 # Round Table
 
-###### 12. Dezember um 18.30 im Würfel {.text-hard}
+###### 12. Dezember um 18.30 im Würfel, Wasserwerkstrasse 101, 8037 Zürich {.text-hard}
+
+Der letzte Round Table dieses Jahres findet bei unseren Freunden vom Würfel statt. Der Würfel ist ein Ort mit einem runden Tisch auf dem Parkplatz. Nicht ganz klar? Schau dir doch ihre Website an: [https://www.park-platz.org](https://www.park-platz.org)
+
+This year's last round table is hosted by our friends at Würfel. The Würfel ist a room with a round table on the Parkplatz. Still confused? Check out their website: [https://www.park-platz.org](https://www.park-platz.org)
 
 ---
 
@@ -14,11 +18,9 @@ moneynotlove ist eine Informationsplattform für selbstständige Kreative und De
 
 Zusätzlich organisiert moneynotlove sogenannte Round Tables als Format für einen persönlichen Austausch mit Gleichgesinnten. Alle sind dazu eingeladen, an den Round Tables fragen zu stellen und Themen zu diskutieren, für die im Alltag kein Platz ist. Es geht ganz konkret um Alles oder Nichts.
 
----
+_moneynotlove is an information platform for independent creatives and designers. It answers everyday work related questions, like calculating and hourly rate, saving for retirement, writing pitches, doing bookkeeping, and many more. The platform is run as an opensource community, which everyone can freely use, share and develop._
 
-moneynotlove is an information platform for independent creatives and designers. It answers everyday work related questions, like calculating and hourly rate, saving for retirement, writing pitches, doing bookkeeping, and many more. The platform is run as an opensource community, which everyone can freely use, share and develop. 
-
-In addition, moneynotlove organises so called round tables as a format for personal exchange with similar minded people. At the round tables, everyone is invited to ask questions and explore issues which otherwise would be lost in daily routine. In detail, it is about all or nothing. 
+_In addition, moneynotlove organises so called round tables as a format for personal exchange with similar minded people. At the round tables, everyone is invited to ask questions and explore issues which otherwise would be lost in daily routine. In detail, it is about all or nothing._
 
 ---
 
