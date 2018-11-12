@@ -1,5 +1,5 @@
 ---
-title: 'Forum for an Attitude'
+title: 'Exkursion zum Forum for an Attitude'
 published: true
 date: '14-07-2016 00:00'
 event:
