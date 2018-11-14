@@ -12,7 +12,7 @@ date: '12-12-2018 18:30'
 
 Liebe Freunde der Geometrie
 
-##### Round Table {.text-hard}
+##### Diesmal im Würfel {.text-hard}
 Der letzte Round  Table dieses Jahres findet bei unseren Freunden vom Würfel statt. Der Würfel ist ein Ort mit einem runden Tisch auf dem Parkplatz. Nicht ganz klar? Schau dir doch ihre Website an: [https://www.park-platz.org](https://www.park-platz.org). Dann melde dich mit dem Formular unten an!
 
 ##### Thema Stundenlohn {.text-hard}
@@ -22,11 +22,11 @@ Als kleines Geschenk haben wir eine weitere Excel Tabelle entwickelt. Wir haben 
 
 <br />
 
-###### moneynotlove ist eine Informationsplattform für selbstständige Kreative und Designer. Sie beantwortet alltägliche unternehmerische Fragen, wie Stundenlohn, Altersvorsorge, Offerten schreiben, Buchhaltung, und viele andere. Die Platform basiert auf dem Prinzip einer opensource community, die Alle nutzen, teilen und weiterentwickeln können.{.text-soft}
+##### Was ist ein Round Table?{.text-hard}
+moneynotlove ist eine Informationsplattform für selbstständige Kreative und Designer. Sie beantwortet alltägliche unternehmerische Fragen, wie Stundenlohn, Altersvorsorge, Offerten schreiben, Buchhaltung, und viele andere. Die Platform basiert auf dem Prinzip einer opensource community, die Alle nutzen, teilen und weiterentwickeln können.
 
-###### Zusätzlich organisiert moneynotlove sogenannte Round Tables als Format für einen persönlichen Austausch mit Gleichgesinnten. Alle sind dazu eingeladen, an den Round Tables fragen zu stellen und Themen zu diskutieren, für die im Alltag kein Platz ist. Es geht ganz konkret um Alles oder Nichts.{.text-soft}
+Zusätzlich organisiert moneynotlove sogenannte Round Tables als Format für einen persönlichen Austausch mit Gleichgesinnten. Alle sind dazu eingeladen, an den Round Tables fragen zu stellen und Themen zu diskutieren, für die im Alltag kein Platz ist. Es geht ganz konkret um Alles oder Nichts.
 
-<br />
 <br />
 
 ## Anmeldung (Mailchimp)
