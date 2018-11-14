@@ -10,21 +10,20 @@ date: '12-12-2018 18:30'
 
 ---
 
-Der letzte Round Table dieses Jahres findet bei unseren Freunden vom Würfel statt. Der Würfel ist ein Ort mit einem runden Tisch auf dem Parkplatz. Nicht ganz klar? Schau dir doch ihre Website an: [https://www.park-platz.org](https://www.park-platz.org). Dann melde dich mit dem Formular unten an!
+Liebe Freunde der Geometrie
 
-_This year's last round table is hosted by our friends at Würfel. The Würfel ist a room with a round table on the Parkplatz. Still confused? Check out their website: [https://www.park-platz.org](https://www.park-platz.org). Then sign up below!_
+##### Round Table {.text-hard}
+Der letzte Round  Table dieses Jahres findet bei unseren Freunden vom Würfel statt. Der Würfel ist ein Ort mit einem runden Tisch auf dem Parkplatz. Nicht ganz klar? Schau dir doch ihre Website an: [https://www.park-platz.org](https://www.park-platz.org). Dann melde dich mit dem Formular unten an!
 
----
+##### Thema Stundenlohn {.text-hard}
+Als kleines Geschenk haben wir eine weitere Excel Tabelle entwickelt. Wir haben immer einen minimalen Stundenansatz von 100.- vorgegeben. Mit dem Rechner könnt ihr nun eure persönliche minimale Rate herausfinden. Dazu benötigt ihr Erfahrungsdaten aus der Vergangenheit, um die ungefähren Kosten eures Unternehmertums abzuschätzen. 
+
+Am 12. Dezember werden wir unsere Excel Kreation vorstellen, mit eurer Hilfe verbessern und allgemein über Stundenlöhne diskutieren.{.text-hard}
 
 moneynotlove ist eine Informationsplattform für selbstständige Kreative und Designer. Sie beantwortet alltägliche unternehmerische Fragen, wie Stundenlohn, Altersvorsorge, Offerten schreiben, Buchhaltung, und viele andere. Die Platform basiert auf dem Prinzip einer opensource community, die Alle nutzen, teilen und weiterentwickeln können. 
 
 Zusätzlich organisiert moneynotlove sogenannte Round Tables als Format für einen persönlichen Austausch mit Gleichgesinnten. Alle sind dazu eingeladen, an den Round Tables fragen zu stellen und Themen zu diskutieren, für die im Alltag kein Platz ist. Es geht ganz konkret um Alles oder Nichts.
 
-_moneynotlove is an information platform for independent creatives and designers. It answers everyday work related questions, like calculating and hourly rate, saving for retirement, writing pitches, doing bookkeeping, and many more. The platform is run as an opensource community, which everyone can freely use, share and develop._
-
-_In addition, moneynotlove organises so called round tables as a format for personal exchange with similar minded people. At the round tables, everyone is invited to ask questions and explore issues which otherwise would be lost in daily routine. In detail, it is about all or nothing._
-
----
 
 Interessiert? Melde dich hier an! Sign up here! (Mailchimp)
 
