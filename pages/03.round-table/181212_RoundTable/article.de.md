@@ -18,14 +18,18 @@ Der letzte Round  Table dieses Jahres findet bei unseren Freunden vom Würfel st
 ##### Thema Stundenlohn {.text-hard}
 Als kleines Geschenk haben wir eine weitere Excel Tabelle entwickelt. Wir haben immer einen minimalen Stundenansatz von 100.- vorgegeben. Mit dem Rechner könnt ihr nun eure persönliche minimale Rate herausfinden. Dazu benötigt ihr Erfahrungsdaten aus der Vergangenheit, um die ungefähren Kosten eures Unternehmertums abzuschätzen. 
 
-###### Am 12. Dezember werden wir unsere Excel Kreation vorstellen, mit eurer Hilfe verbessern und allgemein über Stundenlöhne diskutieren.{.banner .text-hard}
+###### Am 12. Dezember werden wir unsere Excel Kreation vorstellen, mit eurer Hilfe verbessern und allgemein über Stundenlöhne diskutieren.{.text-hard}
+
+<br />
 
 ###### moneynotlove ist eine Informationsplattform für selbstständige Kreative und Designer. Sie beantwortet alltägliche unternehmerische Fragen, wie Stundenlohn, Altersvorsorge, Offerten schreiben, Buchhaltung, und viele andere. Die Platform basiert auf dem Prinzip einer opensource community, die Alle nutzen, teilen und weiterentwickeln können.{.text-soft}
 
 ###### Zusätzlich organisiert moneynotlove sogenannte Round Tables als Format für einen persönlichen Austausch mit Gleichgesinnten. Alle sind dazu eingeladen, an den Round Tables fragen zu stellen und Themen zu diskutieren, für die im Alltag kein Platz ist. Es geht ganz konkret um Alles oder Nichts.{.text-soft}
 
+<br />
+<br />
 
-# Interessiert? Melde dich hier an (Mailchimp)
+## Anmeldung (Mailchimp)
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
