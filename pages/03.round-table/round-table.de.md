@@ -28,7 +28,7 @@ upcoming:
 <section class="row">
   <div class="col-xs-12 col-md-8">
     <h1>Auseinandersetzen</h1>
-    <p>Egal ob man in einer Agentur, einer grossen Firma, einer Ateliergemeinschaft oder ganz alleine arbeitet, tiefgründiger Austausch mit Gleichgesinnten ist nicht immer einfach zu finden. Wir haben deshalb den Round Table ins Leben gerufen. So nennen wir unseren Stammtisch, der ungefähr jeden Monat stattfindet und bei dem wir ganz verschiedene Dinge diskutieren. Dies reicht von konkreten Fragen zur Selbstständigkeit bis zur akademischen Auseinandersetzung mit der Zukunft des Design in der Gesellschaft. Jede Person und jedes Thema ist wilkommen! </p>
+    <p>Egal ob man in einer Agentur, einer grossen Firma, einer Ateliergemeinschaft oder ganz alleine arbeitet, tiefgründiger Austausch mit Gleichgesinnten ist nicht immer einfach zu finden. Wir haben deshalb den Round Table ins Leben gerufen. So nennen wir unseren Stammtisch, der ungefähr alle drei Monate stattfindet und bei dem wir ganz verschiedene Dinge diskutieren. Dies reicht von konkreten Fragen zur Selbstständigkeit bis zur akademischen Auseinandersetzung mit der Zukunft des Design in der Gesellschaft. Jede Person und jedes Thema ist wilkommen! </p>
     <p>Zusätzlich organisieren wir in unregelmässigen Abständen vorgegebene Events wie Exkursionen, Workshops oder Gespräche. </p>
 
   </div>
