@@ -1,24 +1,23 @@
 ---
-title: 'Round Table 2'
+title: 'Round Table'
 published: true
-date: '12-12-2018 18:30'
+date: '08-05-2019 17:30'
 ---
 
 # Round Table
 
-###### 12. Dezember um 18.30 im Würfel, Wasserwerkstrasse 101, 8037 Zürich {.text-hard}
+###### 8. Mai um 17.30 im Café Lang, Limmatplatz 7{.text-hard}
 
 ---
 
-Liebe Freunde der Geometrie
+Liebe Freunde der langfristigen Planung
 
-##### Diesmal im Würfel {.text-hard}
-Der letzte Round  Table dieses Jahres findet bei unseren Freunden vom Würfel statt. Der Würfel ist ein Ort mit einem runden Tisch auf dem Parkplatz. Nicht ganz klar? Schau dir doch ihre Website an: [https://www.park-platz.org](https://www.park-platz.org). Dann melde dich mit dem Formular unten an!
+##### Der nächste Round Table {.text-hard}
+Die Planung des ersten Round Table für dieses Jahr hat etwas Zeit gebraucht – vor allem weil wir selber sehr beschäftigt waren. Jetzt gehts aber los! 
 
-##### Thema Stundenlohn {.text-hard}
-Als kleines Geschenk haben wir eine weitere Excel Tabelle entwickelt. Wir haben immer einen minimalen Stundenansatz von 100.- vorgegeben. Mit dem Rechner könnt ihr nun eure persönliche minimale Rate herausfinden. Dazu benötigt ihr Erfahrungsdaten aus der Vergangenheit, um die ungefähren Kosten eures Unternehmertums abzuschätzen. 
+Mittwoch 8. Mai um 17.30 im Café Lang, Limmatplatz 7 {.text-hard}
 
-###### Am 12. Dezember werden wir unsere Excel Kreation vorstellen, mit eurer Hilfe verbessern und allgemein über Stundenlöhne diskutieren.{.text-hard}
+
 
 <br />
 
