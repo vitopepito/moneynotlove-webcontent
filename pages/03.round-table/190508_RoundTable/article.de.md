@@ -15,7 +15,7 @@ Liebe Freunde der langfristigen Planung
 ##### Der nächste Round Table {.text-hard}
 Die Planung des ersten Round Table für dieses Jahr hat etwas Zeit gebraucht – vor allem weil wir selber sehr beschäftigt waren. Jetzt gehts aber los! 
 
-Mittwoch 8. Mai um 17.30 im Café Lang, Limmatplatz 7 {.text-hard}
+###### Mittwoch 8. Mai um 17.30 im Café Lang, Limmatplatz 7 {.text-soft}
 
 
 
