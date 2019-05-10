@@ -1,23 +1,20 @@
 ---
 title: 'Round Table'
 published: true
-date: '08-05-2019 17:30'
+date: '10-07-2019 17:30'
 ---
 
 # Round Table
 
-###### 8. Mai um 17.30 im Café Lang, Limmatplatz 7{.text-hard}
+###### 10. Juli um 17.30 im Café Lang, Limmatplatz 7{.text-hard}
 
 ---
 
-Liebe Freunde der langfristigen Planung
+Liebe Freunde runder Tische
 
-##### Der nächste Round Table {.text-hard}
-Die Planung des ersten Round Table für dieses Jahr hat etwas Zeit gebraucht – vor allem weil wir selber sehr beschäftigt waren. Jetzt gehts aber los! 
+Die Anmeldung für den nächsten Round Table läuft bereits. Kommt vorbei, wenn ihr Fragen zu eurer Selbstständigkeit habt oder euch mit andern Kreativen austauschen wollt:
 
-###### Mittwoch 8. Mai um 17.30 im Café Lang, Limmatplatz 7 {.text-soft}
-
-
+###### Mittwoch 10. Juli um 17.30 im Café Lang, Limmatplatz 7 {.text-soft}
 
 <br />
 
