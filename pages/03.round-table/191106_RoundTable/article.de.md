@@ -1,20 +1,20 @@
 ---
 title: 'Round Table'
 published: true
-date: '10-07-2019 18:00'
+date: '06-11-2019 18:00'
 ---
 
 # Round Table
 
-###### 10. Juli um 18:00 im Café Lang, Limmatplatz 7{.text-hard}
+###### 6. November um 18:00{.text-hard}
 
 ---
 
-Liebe Freunde runder Tische
+Liebe Freunde kleiner Fische
 
 Die Anmeldung für den nächsten Round Table läuft bereits. Kommt vorbei, wenn ihr Fragen zu eurer Selbstständigkeit habt oder euch mit andern Kreativen austauschen wollt:
 
-###### Mittwoch 10. Juli um 18:00 im Café Lang, Limmatplatz 7 {.text-soft}
+###### Mittwoch 6. November um 18:00 im Café Lang, Limmatplatz 7 {.text-soft}
 
 <br />
 
@@ -23,7 +23,7 @@ moneynotlove ist eine Informationsplattform für selbstständige Kreative und De
 
 Zusätzlich organisiert moneynotlove sogenannte Round Tables als Format für einen persönlichen Austausch mit Gleichgesinnten. Alle sind dazu eingeladen, an den Round Tables fragen zu stellen und Themen zu diskutieren, für die im Alltag kein Platz ist. Es geht ganz konkret um Alles oder Nichts.
 
-<br />
+---
 
 ## Anmeldung (Mailchimp)
 
