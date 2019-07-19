@@ -6,7 +6,7 @@ menu: 'About Us'
 <header class="banner">
     <section class="row align-center">
   		<div class="col-xs-12 col-md-8">
-    		<h2>moneynotlove ist der Verein für selbstständige Kreative und Designer in der Schweiz. </h2>
+    		<h2>moneynotlove ist das Netzwerk für selbstständige Kreative und Designer in der Schweiz. </h2>
 			<p>Als offenes Netzwerk etablieren wir operative Arbeitsgrundlagen, fördern den Erfahrungsaustausch innerhalb der Kreativbranche und engagieren uns für Kreativität als Zukunftsfaktor. <p>
  			<h2>&nbsp;</h2>
         </div>
