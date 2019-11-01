@@ -6,7 +6,7 @@ Bei moneynotlove stehen wir dazu, unsere Informationen frei zur Verfügung zu st
 
 Da die Angebote oft mit einem Mitgliederbeitrag verbunden sind, ist er hier direkt ersichtlich (Stand 2019). Ohne Gewähr – es gelten die Angaben auf der Website der jeweiligen Organisation. 
 
-__Swiss Design Association SDA__
+## Swiss Design Association SDA
 
 ###### Wen vertritt ihr? {.text-soft}
 Alle angewandten Designberufe mit einem in der Schweiz anerkannten Abschluss (oder Sur Dossier).
@@ -32,7 +32,7 @@ Wir bieten unseren Mitgliedern kostenlose Erstberatung in Rechtsfragen durch Beu
 
 [swiss-design-association.ch](http://swiss-design-association.ch)
 
-__syndicom, Gewerkschaft Medien und Kommunikation__
+## syndicom, Gewerkschaft Medien und Kommunikation
 
 ###### Wen vertritt ihr? {.text-soft}
 
