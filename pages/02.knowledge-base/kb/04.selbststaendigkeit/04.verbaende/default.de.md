@@ -1,5 +1,5 @@
 ---
-title: Verbände
+title: 'Verbände und Gewerkschaften'
 ---
 
 Bei moneynotlove stehen wir dazu, unsere Informationen frei zur Verfügung zu stellen, das heisst kostenlos und zur uneingeschränkten Nutzung. Nun gibt es verschiedene Organisationen wie Verbände oder Gewerkschaften mit Angeboten für Selbstständige, welche wir (je nach Situation) für Sinnvoll halten und deshalb hier auflisten. 
@@ -50,7 +50,7 @@ Gerade in der kreativen Branche gibt es einen Trend von der klassischen Anstellu
 
 Um das zu erreichen, müssen sich die in den neuen Arbeitsformen Arbeitenden zusammenschliessen. Nur gemeinsam kann genug Druck erzeugt werden, damit auch die neuen Arbeitsformen eine Arbeitswelt bieten, in der wir gerne arbeiten. syndicom als Gewerkschaft deiner Branche ist dabei dein individueller Schutz und mit über 30’000 Mitgliedern deine starke kollektive Stimme.
 
-[syndicom.ch](https://syndicom.ch)
+[syndicom.ch/kreative](http://www.syndicom.ch/kreative)
 
 [Pensionskasse Freelance](https://www.pkfreelance.ch)
 
