@@ -11,7 +11,7 @@ Liebe Freunde der sozialen Distanz
 
 Die ausserordentliche Situation trifft auch Selbstständige in ausserordentlichem Masse. Bereits gibt es zahlreiche Initiativen und Wegleitungen, um Kreativen zu helfen. Bankkredite, Kurzarbeit, Erwerbsersatzordnung. Um in diesem Schlamassel die Übersicht zu behalten und die gegenseitigen Erfahrungen auszutauschen, organisieren wir den ersten:
 
-###### Remote Round Table, Mittwoch 8. April um 18.00 {.text-hard}
+###### Remote Round Table, Dienstag 7. April um 18.00 im Internet {.text-hard}
 
 - hier gehts zur [Anmeldung (Google Forms)](https://forms.gle/kL67iV9CN5DNM3Zj8)
 
