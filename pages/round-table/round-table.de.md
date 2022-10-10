@@ -1,6 +1,5 @@
 ---
 title: 'Round Table'
-menu: 'Round Table'
 content:
     items: '@self.children'
     order:
