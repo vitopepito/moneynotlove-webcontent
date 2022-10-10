@@ -1,7 +1,6 @@
 ---
 title: Cheatsheet
 menu: Cheatsheet
-
 ---
 
 ##### A guide to markdown and how things are done with the custom 'money' theme for the site moneynotlove.ch running on Grav CMS. Reading this should make it easy for anyone to edit the pages of our website. For other instructions, see the [Documentation](/documentation). {.banner .text-soft}
@@ -24,7 +23,7 @@ There are six levels of titles, corresponding to the six html `<h>` tags.
 Paragraphs are the easiest, since they do not require any special code. However, a line-break will only be added if there is a blank line in between two paragraphs. Text formatting can be applied, _italics_, __bold__ and ~~strikethrough~~.
 
 Like so.
-But not so.
+Not so.
 
 If you need additional line-break, add `<br />`.
 
